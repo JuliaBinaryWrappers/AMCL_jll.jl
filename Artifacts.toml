@@ -1,0 +1,113 @@
+[[AMCL]]
+arch = "i686"
+git-tree-sha1 = "4b3627582572f57c461c1c44c0c217408cf683a1"
+libc = "musl"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "8410373ac332b1e924e0e8471b3e9ddddd45c60006a83cf9fc3344ec936ef598"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.i686-linux-musl.tar.gz"
+[[AMCL]]
+arch = "aarch64"
+git-tree-sha1 = "242f9abf2cefcc896fd103235148b67f4124e126"
+libc = "musl"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "e99afa71c5e9280b578ba1f838fe2cf0ce5070a7a6643bf9db0b7d8441b6af29"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.aarch64-linux-musl.tar.gz"
+[[AMCL]]
+arch = "i686"
+git-tree-sha1 = "3ed7d423026ff2f620292b886121ea8c61df5d1b"
+os = "windows"
+
+    [[AMCL.download]]
+    sha256 = "74207d4bde3c605339d66ee367e2e7f3c9069ba8298286f9f578da9e258b037b"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.i686-w64-mingw32.tar.gz"
+[[AMCL]]
+arch = "x86_64"
+git-tree-sha1 = "c828c54a895db34b71972f4f263ae7eaa7813dd4"
+os = "windows"
+
+    [[AMCL.download]]
+    sha256 = "7fcc21b6b10a973ff4a31594b4b2120312b953256efcd29d07a0a357db1bc8aa"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.x86_64-w64-mingw32.tar.gz"
+[[AMCL]]
+arch = "armv7l"
+git-tree-sha1 = "da27b63bda4182563e12fc77e4685f41b258695b"
+libc = "glibc"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "fda27119874080d22d8eded22afc0d7c7b986537960273d419274ecc9cd29494"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[AMCL]]
+arch = "armv7l"
+git-tree-sha1 = "af63f00a7f1ab73742a24818ece692f73e01a6c3"
+libc = "musl"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "9df71f88835a7ed01950604ac7bdc9bb5cab57dad16a8c9ca6da0330977c6f8e"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.armv7l-linux-musleabihf.tar.gz"
+[[AMCL]]
+arch = "i686"
+git-tree-sha1 = "d9de97ab8e6d3a4556bc8a03ec2380531809d953"
+libc = "glibc"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "0928feaae61f30e7c9533e3f41d2091ec7426d036019d32fd2ea5fc9e155a623"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.i686-linux-gnu.tar.gz"
+[[AMCL]]
+arch = "x86_64"
+git-tree-sha1 = "70206f906f2981e19b39a80ece18f06b8cbedaae"
+libc = "glibc"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "707159cb6253e9362470d27f08bd57850dd0ebab502996ecaca99ff21937a252"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.x86_64-linux-gnu.tar.gz"
+[[AMCL]]
+arch = "powerpc64le"
+git-tree-sha1 = "2f1d7e154dece97bf378c26965b4b4bcd59c6740"
+libc = "glibc"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "c167b395652c2d19d0adde8dbdef16450213bb3880ecc82bbfbdb83195ee7da4"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.powerpc64le-linux-gnu.tar.gz"
+[[AMCL]]
+arch = "x86_64"
+git-tree-sha1 = "5598ce6fb0609d34ff4abe99e30b5580aae60248"
+os = "macos"
+
+    [[AMCL.download]]
+    sha256 = "18090f0915df507d8c87b523e795055f7557441803c2edddac7de477cc4db2c7"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.x86_64-apple-darwin14.tar.gz"
+[[AMCL]]
+arch = "aarch64"
+git-tree-sha1 = "5d41dac9dba8fa93afab064997011e91c0569163"
+libc = "glibc"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "27c28d85215da760334d92701924348df83dddd435c7b200ff3dde7d5300ed6a"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.aarch64-linux-gnu.tar.gz"
+[[AMCL]]
+arch = "x86_64"
+git-tree-sha1 = "a914826b5e4725d62bef929178322eb89359c795"
+os = "freebsd"
+
+    [[AMCL.download]]
+    sha256 = "d67d8357fc264e74ab3dc9a7c006abdab7b39afe2d1abc1422ec429525fb0071"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[AMCL]]
+arch = "x86_64"
+git-tree-sha1 = "6957a5a1a102c8234ebf38dccd377b0d60b2c277"
+libc = "musl"
+os = "linux"
+
+    [[AMCL.download]]
+    sha256 = "6d7bbe68e578822ff7dd7ba10e94505637d7c6654feaaad8c3a4e77c65442913"
+    url = "https://github.com/JuliaBinaryWrappers/AMCL_jll.jl/releases/download/AMCL-v2.0.1+0/AMCL.v2.0.1.x86_64-linux-musl.tar.gz"
